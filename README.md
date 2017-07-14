@@ -13,6 +13,6 @@ Daily precipitation observations are made by individuals and organizations throu
 the United States, Canada, and the Bahamas. [Maps](https://cocorahs.org/Maps/) are
 available at the CoCoRaHS website.
 
-## Stations represented in this repository:
+## Station data contained in this repository:
 
-* MN-HN-181 (Elliot Park Neighborhood, Minneapolis, MN)
+* MN-HN-181 (Minneapolis 0.4 NE; Elliot Park Neighborhood, Minneapolis, MN)
